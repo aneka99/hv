@@ -55,7 +55,4 @@ During reading, these steps are carried out in reverse:
 - the read/write head, which is assigned to the information-carrying surface, reads the track signal and performs the fine positioning.
 - 
 - Now the track is read as long (or a little longer) until the desired sector has been found successfully.
-- 
-
-
 
